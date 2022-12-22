@@ -16,8 +16,8 @@ To run this project successfully, one needs to install and import the following 
 - [NumPy](https://numpy.org)
 - [Pandas](https://pandas.pydata.org)
 - [Scikit-learn](https://scikit-learn.org/stable/)
-
-### Screen shots
+- [Seaborn](https://seaborn.pydata.org)
+- [Matplotlib](https://matplotlib.org)
 
 ## Data Wrangling
 
