@@ -1,4 +1,4 @@
-# Title
+# Walmart Sales Analysis and Prediction 
 
 <img src="image.png" alt="image name" style="max-width: 100%;">
 
