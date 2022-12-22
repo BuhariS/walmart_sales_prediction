@@ -8,9 +8,14 @@ Sales analysis and forecasting are essential tools for businesses to understand 
 The importance of sales analysis and forecasting extends beyond just understanding sales performance. It is also crucial for budgeting and financial planning. By understanding their expected sales, businesses can better plan for expenses and allocate resources to meet their financial goals (Small Business Administration, 2021). Additionally, sales analysis and forecasting can help businesses identify opportunities for growth and new areas for expansion (B2B International, 2018).
 
 In this project, we will analyze Walmart's weekly sales data across 45 different stores to gain insights into their sales performance and identify trends and patterns. We will then use this data to forecast future sales, which can assist Walmart in making informed strategic decisions. This analysis will provide Walmart with valuable information on how to optimize their sales and allocate resources effectively. Additionally, by understanding how sales vary across different stores, Walmart can identify areas for improvement and potential opportunities for growth. Overall, this project will enable Walmart to gain a deeper understanding of their sales performance and make data-driven decisions to drive future success.
-### Dependencies
 
-### Data Source or Description
+### Data Description
+The file `Walmart.csv` was obtained from [Kaggle](https://www.kaggle.com/datasets/yasserh/walmart-dataset) website.
+### Dependencies
+To run this project successfully, one needs to install and import the following dependencies:
+- [NumPy](https://numpy.org)
+- [Pandas](https://pandas.pydata.org)
+- [Scikit-learn](https://scikit-learn.org/stable/)
 
 ### Screen shots
 
