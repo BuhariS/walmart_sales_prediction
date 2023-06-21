@@ -2,7 +2,7 @@
 
 <img src="https://cdn.corporate.walmart.com/dims4/WMT/26fb832/2147483647/strip/true/crop/2400x1332+0+134/resize/980x544!/quality/90/?url=https%3A%2F%2Fcdn.corporate.walmart.com%2Fb6%2Fc6%2F5e1cb86e49f6948b3298e76c1123%2Fpress-hero-1.jpg" alt="image name" style="max-width: 100%;">
 
-Photo by [Walmart](https://cdn.corporate.walmart.com/dims4/WMT/26fb832/2147483647/strip/true/crop/2400x1332+0+134/resize/980x544!/quality/90/?url=https%3A%2F%2Fcdn.corporate.walmart.com%2Fb6%2Fc6%2F5e1cb86e49f6948b3298e76c1123%2Fpress-hero-1.jpg)
+<center> Photo by [Walmart](https://cdn.corporate.walmart.com/dims4/WMT/26fb832/2147483647/strip/true/crop/2400x1332+0+134/resize/980x544!/quality/90/?url=https%3A%2F%2Fcdn.corporate.walmart.com%2Fb6%2Fc6%2F5e1cb86e49f6948b3298e76c1123%2Fpress-hero-1.jpg) </center>
 
 ## Introduction
 Sales analysis and forecasting are essential tools for businesses to understand and improve their sales performance and make informed decisions about their future sales goals (B2B International, 2018). By analyzing past sales data, businesses can identify trends and patterns that can help them understand what is driving their sales and where they may need to focus their efforts to improve (Small Business Administration, 2021). Forecasting allows businesses to project future sales based on these trends and patterns, helping them to set realistic goals and allocate resources appropriately (Business News Daily, 2021).
