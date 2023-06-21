@@ -31,7 +31,5 @@ To run this project successfully, one needs to install and import the following 
 
 ## Conclusions
 
-## Photo or other credits
-
 ## License 
 The project is licensed under the MIT License.
