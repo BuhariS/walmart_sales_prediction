@@ -9,10 +9,13 @@ Sales analysis and forecasting are essential tools for businesses to understand 
 
 The importance of sales analysis and forecasting extends beyond just understanding sales performance. It is also crucial for budgeting and financial planning. By understanding their expected sales, businesses can better plan for expenses and allocate resources to meet their financial goals (Small Business Administration, 2021). Additionally, sales analysis and forecasting can help businesses identify opportunities for growth and new areas for expansion (B2B International, 2018).
 
-In this project, we analyzed Walmart's weekly sales data across 45 different stores to gain insights into their sales performance and identify trends and patterns. We will then use this data to forecast future sales, which can assist Walmart in making informed strategic decisions. This analysis will provide Walmart with valuable information on how to optimize their sales and allocate resources effectively. Additionally, by understanding how sales vary across different stores, Walmart can identify areas for improvement and potential opportunities for growth. Overall, this project will enable Walmart to gain a deeper understanding of their sales performance and make data-driven decisions to drive future success.
+In this project, we analyzed Walmart's weekly sales data across 45 different stores to gain insights into their sales performance and identify trends and patterns. We will then use this data to forecast future sales, which can assist Walmart in making informed strategic decisions. This analysis will provide Walmart with valuable information on how to optimize its sales and allocate resources effectively. Additionally, by understanding how sales vary across different stores, Walmart can identify areas for improvement and potential opportunities for growth. Overall, this project will enable Walmart to gain a deeper understanding of its sales performance and make data-driven decisions to drive future success.
 
 ### Data Description
 The file `Walmart.csv` was obtained from [Kaggle](https://www.kaggle.com/datasets/yasserh/walmart-dataset) website.
+
+### Project File
+
 ### Dependencies
 To run this project successfully, one needs to install and import the following dependencies:
 - [NumPy](https://numpy.org)
@@ -31,15 +34,15 @@ The dataset underwent a comprehensive analysis, focusing on key metrics such as 
 
 *Weekly Sales Trend*
 
-## Model Selection and Evalaution
+## Model Selection and Evaluation
 In this project, various regressors were used to model the dataset. The Random Forest regressor model had the lowest root mean square error of 1.17e+05 and was the best model for the data.
 
 ## Conclusions 
-The analysis shows that sales during holiday weeks are significantly higher than during non-holiday weeks, with sales doubling on average. Additionally, there is a strong seasonal component to the sales data. The average sales of the top performing stores are up to 500% higher than the lowest performing stores. 
+The analysis shows that sales during holiday weeks are significantly higher than during non-holiday weeks, with sales doubling on average. Additionally, there is a strong seasonal component to the sales data. The average sales of the top-performing stores are up to 500% higher than the lowest-performing stores. 
 
-The best model for predicting future sales is the Random Forest Regressor model,which achieved an RMSE of 1.17e+05. This is a good estimate as it is 88% close to the median sale of the data.
+The best model for predicting future sales is the Random Forest Regressor model, which achieved an RMSE of 1.17e+05. This is a good estimate as it is 88% close to the median sale of the data.
 
-These findings have important implications for **Walmart** as they can inform decisions about inventory, staffing, and marketing efforts. By understanding the factors that drive sales and using a reliable model to forecast future sales, **Walmart** can better plan for the future and optimize their resources. 
+These findings have important implications for **Walmart** as they can inform decisions about inventory, staffing, and marketing efforts. By understanding the factors that drive sales and using a reliable model to forecast future sales, **Walmart** can better plan for the future and optimize its resources. 
 
 ## License 
 The project is licensed under the MIT License.
