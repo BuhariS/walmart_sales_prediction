@@ -15,6 +15,7 @@ In this project, we analyzed Walmart's weekly sales data across 45 different sto
 The file `Walmart.csv` was obtained from [Kaggle](https://www.kaggle.com/datasets/yasserh/walmart-dataset) website.
 
 ### Project File
+The project in this repository resides in "walmart_sales_prediction.ipynb" file.
 
 ### Dependencies
 To run this project successfully, one needs to install and import the following dependencies:
